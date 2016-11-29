@@ -1,4 +1,4 @@
-import './check-npm.js';
+//import './check-npm.js';
 
 import { graphqlExpress, graphiqlExpress } from 'graphql-server-express';
 import bodyParser from 'body-parser';
